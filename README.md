@@ -26,7 +26,14 @@ rev – отображает содержимое файла в обратном
 **Пример работы:**
 
 Gordey:/$ ls
-virtual_fsGordey:/$ touch help
+
+
+
+virtual_fs
+
+
+
+Gordey:/$ touch help
 
 
 
