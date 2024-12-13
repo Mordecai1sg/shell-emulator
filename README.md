@@ -28,17 +28,37 @@ rev – отображает содержимое файла в обратном
 Gordey:/$ ls
 virtual_fsGordey:/$ touch help
 
+
+
 File 'help' created.Gordey:/$ ls
+
+
+
 virtual_fs
+
+
+
 help
 
 Gordey:/$ cd virtual_fs
 Gordey:/virtual_fs$ ls
+
+
+
 home
+
+
+
 movies
 
 Gordey:/virtual_fs$ rmdir movies
+
+
+
 Directory 'movies' removed.
 
 Gordey:/virtual_fs$ exit
+
+
+
 Process finished with exit code 0
