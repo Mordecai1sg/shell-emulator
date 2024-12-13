@@ -33,7 +33,8 @@ virtual_fs
 
 helpGordey:/$ cd virtual_fs
 Gordey:/virtual_fs$ ls
-homemovies
+home
+movies
 
 Gordey:/virtual_fs$ rmdir moviesDirectory 'movies' removed.
 
