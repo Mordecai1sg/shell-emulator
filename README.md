@@ -25,9 +25,17 @@ rev – отображает содержимое файла в обратном
 
 **Пример работы:**
 
-your_username:/$ ls
-your_file.txt
+Gordey:/$ ls
+virtual_fsGordey:/$ touch help
 
-your_username:/$ cd some_directory
-your_username:/some_directory$ touch new_file.txt
-your_username:/some_directory$ rev new_file.txt
+File 'help' created.Gordey:/$ ls
+virtual_fs
+
+helpGordey:/$ cd virtual_fs
+Gordey:/virtual_fs$ ls
+homemovies
+
+Gordey:/virtual_fs$ rmdir moviesDirectory 'movies' removed.
+
+Gordey:/virtual_fs$ exit
+Process finished with exit code 0
